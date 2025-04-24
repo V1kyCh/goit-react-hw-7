@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 70px;
+}
+.item{
+    background-color: rgba(39, 158, 41, 0.491);
+    width: 300px;
+    border-radius: 30px;
+    padding-bottom: 15px;
+}
+.text{
+    color: white;
+}
